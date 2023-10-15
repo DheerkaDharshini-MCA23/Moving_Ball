@@ -2,7 +2,7 @@
 
 ### Description:
 
-##### This HTML page displays a continuous bouncing red ball animation within a rectangular area, controlled by JavaScript using the setInterval function with a 500-millisecond interval.
+#### This HTML page displays a continuous bouncing red ball animation within a rectangular area, controlled by JavaScript using the setInterval function with a 500-millisecond interval.
 
 ### How to run the code:
 
@@ -12,4 +12,4 @@
 
 ### Future improvement:
 
-##### consider adding user interaction features like mouse or keyboard control to change the ball's direction or speed, or adding obstacles or targets for the ball to interact with, creating a more engaging and interactive animation.
+#### consider adding user interaction features like mouse or keyboard control to change the ball's direction or speed, or adding obstacles or targets for the ball to interact with, creating a more engaging and interactive animation.
